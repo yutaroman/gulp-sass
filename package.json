@@ -1,0 +1,31 @@
+{
+  "name": "yutaroman-gulp-sass",
+  "description": "",
+  "version": "1.0.0",
+  "author": "yutaroman",
+  "bugs": {
+    "url": "https://github.com/yutaroman/gulp-sass/issues"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.8.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-load-plugins": "^1.0.0-rc.1",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^3.1.0",
+    "run-sequence": "^1.1.2"
+  },
+  "homepage": "https://github.com/yutaroman/gulp-sass",
+  "keywords": [
+    "sass",
+    "scss"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yutaroman/gulp-sass"
+  },
+  "scripts": {
+    "gulp": "gulp"
+  }
+}
